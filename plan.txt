@@ -1,0 +1,18 @@
+The goal of this project is to...
+* practice dynamic programming
+* create an auto correct application
+* put this in a website
+
+What I'll need...
+* a dictionary file
+* to define cost of insert, delete, change
+
+Planning the code...
+* I'll need a function that performs the dynamic programming.
+  * costs...
+      insert - 1
+      delete - 1
+      change - 2
+  * constructs a 2D array...
+* I'll need a program that opens dictionary and stores all words in array.
+
